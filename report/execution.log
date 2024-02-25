@@ -1,0 +1,149 @@
+02/26/2024 01:26:05 AM - INFO: Starting Test test_TCID_001_verify_homepage
+02/26/2024 01:26:09 AM - INFO: Initializing driver chrome with Headless mode False
+02/26/2024 01:26:12 AM - INFO: Element with locator ('css selector', '#top-banner.top-banner') displayed on page.
+02/26/2024 01:26:13 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:26:14 AM - INFO: Clicked on ('id', 'close-top-banner')
+02/26/2024 01:26:14 AM - INFO: Waited for <Tendable logo> Element to Display for 0 seconds
+02/26/2024 01:26:14 AM - INFO: Element with locator ('class name', 'logo') displayed on page.
+02/26/2024 01:26:14 AM - INFO: Title of the page is displayed as 
+Quality Improvement App | Health and Social Care | Tendable
+02/26/2024 01:26:14 AM - INFO: _____________ Test Case: test_TCID_001_verify_homepage passed _____________
+02/26/2024 01:26:17 AM - INFO: Chrome browser closed successfully.
+
+
+
+02/26/2024 01:26:17 AM - INFO: Test Execution Finished for TC: test_TCID_001_verify_homepage
+02/26/2024 01:26:17 AM - INFO: _____________ Test Case : test_TCID_001_verify_homepage passed _____________
+02/26/2024 01:26:17 AM - INFO: Starting Test test_TCID_002_verify_top_level_menus
+02/26/2024 01:26:19 AM - INFO: Initializing driver chrome with Headless mode False
+02/26/2024 01:26:23 AM - INFO: Element with locator ('css selector', '#top-banner.top-banner') displayed on page.
+02/26/2024 01:26:23 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:26:24 AM - INFO: Clicked on ('id', 'close-top-banner')
+02/26/2024 01:26:24 AM - INFO: Element with locator ('xpath', "//a[contains(@class,'menu-item') and text()='Our Story']") is enabled/clickable.
+02/26/2024 01:26:24 AM - INFO: Element with locator ('xpath', "//a[contains(@class,'menu-item') and text()='Our Solution']") is enabled/clickable.
+02/26/2024 01:26:24 AM - INFO: Element with locator ('xpath', "//a[contains(@class,'menu-item') and text()='Why Tendable?']") is enabled/clickable.
+02/26/2024 01:26:24 AM - INFO: Element with locator ('xpath', "//a[contains(@class,'menu-item') and text()='About Us']") is enabled/clickable.
+02/26/2024 01:26:24 AM - INFO: Waited for <Our Story: Top menu> Element to Display for 0 seconds
+02/26/2024 01:26:24 AM - INFO: Element with locator ('class name', 'logo') displayed on page.
+02/26/2024 01:26:26 AM - INFO: Waited for <Our Solution: Top menu> Element to Display for 0 seconds
+02/26/2024 01:26:26 AM - INFO: Element with locator ('class name', 'logo') displayed on page.
+02/26/2024 01:26:29 AM - INFO: found sub menu: Our Solution for menu: Our Solution
+02/26/2024 01:26:29 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_52")> is displayed as <Hospital Pharmacy>
+02/26/2024 01:26:29 AM - INFO: found sub menu: Our Solution for menu: Our Solution
+02/26/2024 01:26:29 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_53")> is displayed as <Emergency Care>
+02/26/2024 01:26:29 AM - INFO: found sub menu: Our Solution for menu: Our Solution
+02/26/2024 01:26:29 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_54")> is displayed as <General Practice and Primary Care Networks>
+02/26/2024 01:26:30 AM - INFO: found sub menu: Our Solution for menu: Our Solution
+02/26/2024 01:26:30 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_55")> is displayed as <Acute Care>
+02/26/2024 01:26:30 AM - INFO: found sub menu: Our Solution for menu: Our Solution
+02/26/2024 01:26:30 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_56")> is displayed as <Ambulance & Patient Transport>
+02/26/2024 01:26:30 AM - INFO: found sub menu: Our Solution for menu: Our Solution
+02/26/2024 01:26:30 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_57")> is displayed as <Community Care>
+02/26/2024 01:26:30 AM - INFO: found sub menu: Our Solution for menu: Our Solution
+02/26/2024 01:26:31 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_58")> is displayed as <Care Home & Hospice>
+02/26/2024 01:26:31 AM - INFO: found sub menu: Our Solution for menu: Our Solution
+02/26/2024 01:26:31 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_59")> is displayed as <Disability Care>
+02/26/2024 01:26:31 AM - INFO: Waited for <Why Tendable?: Top menu> Element to Display for 0 seconds
+02/26/2024 01:26:31 AM - INFO: Element with locator ('class name', 'logo') displayed on page.
+02/26/2024 01:26:33 AM - INFO: Waited for <About Us: Top menu> Element to Display for 0 seconds
+02/26/2024 01:26:33 AM - INFO: Element with locator ('class name', 'logo') displayed on page.
+02/26/2024 01:26:35 AM - INFO: found sub menu: About Us for menu: About Us
+02/26/2024 01:26:36 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_67")> is displayed as <Our team>
+02/26/2024 01:26:36 AM - INFO: found sub menu: About Us for menu: About Us
+02/26/2024 01:26:36 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_68")> is displayed as <Our events>
+02/26/2024 01:26:36 AM - INFO: found sub menu: About Us for menu: About Us
+02/26/2024 01:26:36 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_69")> is displayed as <Latest news>
+02/26/2024 01:26:36 AM - INFO: found sub menu: About Us for menu: About Us
+02/26/2024 01:26:37 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_70")> is displayed as <Case Studies>
+02/26/2024 01:26:37 AM - INFO: found sub menu: About Us for menu: About Us
+02/26/2024 01:26:37 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_71")> is displayed as <Careers>
+02/26/2024 01:26:37 AM - INFO: found sub menu: About Us for menu: About Us
+02/26/2024 01:26:37 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_72")> is displayed as <Contact us>
+02/26/2024 01:26:37 AM - INFO: found sub menu: About Us for menu: About Us
+02/26/2024 01:26:37 AM - INFO: Element text for <selenium.webdriver.remote.webelement.WebElement (session="f88db16ad36f54d62a0f3053e91325da", element="E5A7154AD012623B592DCDE0A1552E36_element_73")> is displayed as <FAQs>
+02/26/2024 01:26:37 AM - INFO: _____________ Test Case: test_TCID_002_verify_top_level_menus passed _____________
+02/26/2024 01:26:40 AM - INFO: Chrome browser closed successfully.
+
+
+
+02/26/2024 01:26:40 AM - INFO: Test Execution Finished for TC: test_TCID_002_verify_top_level_menus
+02/26/2024 01:26:40 AM - INFO: _____________ Test Case : test_TCID_002_verify_top_level_menus passed _____________
+02/26/2024 01:26:44 AM - INFO: Starting Test test_TCID_003_verify_request_demo_option_on_menu_pages
+02/26/2024 01:26:49 AM - INFO: Initializing driver chrome with Headless mode False
+02/26/2024 01:26:51 AM - INFO: Element with locator ('css selector', '#top-banner.top-banner') displayed on page.
+02/26/2024 01:26:51 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:26:52 AM - INFO: Clicked on ('id', 'close-top-banner')
+02/26/2024 01:26:52 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:26:55 AM - INFO: Clicked on ('xpath', "//a[contains(@class,'menu-item') and text()='Our Story']")
+02/26/2024 01:26:59 AM - INFO: Current page url is https://www.tendable.com/our-story
+02/26/2024 01:26:59 AM - INFO: Element with locator ('xpath', "//a[.='Request A Demo']") displayed on page.
+02/26/2024 01:27:00 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:27:05 AM - INFO: Clicked on ('xpath', "//a[contains(@class,'menu-item') and text()='Our Solution']")
+02/26/2024 01:27:09 AM - INFO: Current page url is https://www.tendable.com/our-solution
+02/26/2024 01:27:09 AM - INFO: Element with locator ('xpath', "//a[.='Request A Demo']") displayed on page.
+02/26/2024 01:27:09 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:27:12 AM - INFO: Clicked on ('xpath', "//a[contains(@class,'menu-item') and text()='Why Tendable?']")
+02/26/2024 01:27:16 AM - INFO: Current page url is https://www.tendable.com/why-tendable
+02/26/2024 01:27:16 AM - INFO: Element with locator ('xpath', "//a[.='Request A Demo']") displayed on page.
+02/26/2024 01:27:16 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:27:17 AM - INFO: Clicked on ('xpath', "//a[contains(@class,'menu-item') and text()='About Us']")
+02/26/2024 01:27:21 AM - INFO: Current page url is https://www.tendable.com/why-tendable
+02/26/2024 01:27:21 AM - INFO: Element with locator ('xpath', "//a[.='Request A Demo']") displayed on page.
+02/26/2024 01:27:21 AM - INFO: _____________ Test Case: test_TCID_003_verify_request_demo_option_on_menu_pages passed _____________
+02/26/2024 01:27:24 AM - INFO: Chrome browser closed successfully.
+
+
+
+02/26/2024 01:27:24 AM - INFO: Test Execution Finished for TC: test_TCID_003_verify_request_demo_option_on_menu_pages
+02/26/2024 01:27:24 AM - INFO: _____________ Test Case : test_TCID_003_verify_request_demo_option_on_menu_pages passed _____________
+02/26/2024 01:27:28 AM - INFO: Starting Test test_TCID_004_fill_up_form_on_contact_us_page_with_random_data
+02/26/2024 01:27:34 AM - INFO: Initializing driver chrome with Headless mode False
+02/26/2024 01:27:34 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:27:36 AM - INFO: Clicked on ('xpath', "//div[@id='searchPanel']/parent::div[@class='button-links-panel']/a[contains(.,'Contact Us')]")
+02/26/2024 01:27:38 AM - INFO: Current page url is https://www.tendable.com/contact-us
+02/26/2024 01:27:38 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:27:39 AM - INFO: Clicked on ('xpath', "//div[contains(.,'Marketing')]/parent::div/div/button")
+02/26/2024 01:27:40 AM - INFO: String 'Willie' sent / typed in 'input_element' input field.
+02/26/2024 01:27:40 AM - INFO: String 'Jimenez Group' sent / typed in 'input_element' input field.
+02/26/2024 01:27:41 AM - INFO: String '(465)801-3985x041' sent / typed in 'input_element' input field.
+02/26/2024 01:27:42 AM - INFO: String 'mharris@example.net' sent / typed in 'input_element' input field.
+02/26/2024 01:27:42 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:27:43 AM - INFO: Clicked on ('xpath', "(//input[@type='radio'])[1]")
+02/26/2024 01:27:43 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:27:44 AM - INFO: Clicked on ('xpath', "//button[text()='Submit']")
+02/26/2024 01:27:45 AM - INFO: Element text for ('css selector', 'div.ff-form-errors > p') is displayed as <Sorry, there was an error submitting the form. Please try again.>
+02/26/2024 01:27:45 AM - INFO: Element text for ('css selector', 'ul.ff-errors > li') is displayed as <This field is required>
+02/26/2024 01:27:50 AM - INFO: _____________ Test Case: test_TCID_004_fill_up_form_on_contact_us_page_with_random_data passed _____________
+02/26/2024 01:27:52 AM - INFO: Chrome browser closed successfully.
+
+
+
+02/26/2024 01:27:52 AM - INFO: Test Execution Finished for TC: test_TCID_004_fill_up_form_on_contact_us_page_with_random_data
+02/26/2024 01:27:52 AM - INFO: _____________ Test Case : test_TCID_004_fill_up_form_on_contact_us_page_with_random_data passed _____________
+02/26/2024 01:27:53 AM - INFO: Starting Test test_TCID_004_fill_up_form_on_contact_us_page_with_static_data
+02/26/2024 01:27:58 AM - INFO: Initializing driver chrome with Headless mode False
+02/26/2024 01:27:59 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:28:02 AM - INFO: Clicked on ('xpath', "//div[@id='searchPanel']/parent::div[@class='button-links-panel']/a[contains(.,'Contact Us')]")
+02/26/2024 01:28:04 AM - INFO: Current page url is https://www.tendable.com/contact-us
+02/26/2024 01:28:04 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:28:04 AM - INFO: Clicked on ('xpath', "//div[contains(.,'Marketing')]/parent::div/div/button")
+02/26/2024 01:28:05 AM - INFO: String 'Jacob' sent / typed in 'input_element' input field.
+02/26/2024 01:28:06 AM - INFO: String 'Test_Facebook' sent / typed in 'input_element' input field.
+02/26/2024 01:28:07 AM - INFO: String '989898982' sent / typed in 'input_element' input field.
+02/26/2024 01:28:08 AM - INFO: String 'test@example.com' sent / typed in 'input_element' input field.
+02/26/2024 01:28:09 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:28:09 AM - INFO: Clicked on ('xpath', "(//input[@type='radio'])[1]")
+02/26/2024 01:28:09 AM - INFO: Waited for <> Element to Display for 0 seconds
+02/26/2024 01:28:10 AM - INFO: Clicked on ('xpath', "//button[text()='Submit']")
+02/26/2024 01:28:11 AM - INFO: Element text for ('id', 'form-input-message') is displayed as <>
+02/26/2024 01:28:11 AM - INFO: Element text for ('css selector', 'div.ff-form-errors > p') is displayed as <Sorry, there was an error submitting the form. Please try again.>
+02/26/2024 01:28:12 AM - INFO: Element text for ('css selector', 'ul.ff-errors > li') is displayed as <This field is required>
+02/26/2024 01:28:12 AM - INFO: _____________ Test Case: test_TCID_004_fill_up_form_on_contact_us_page_with_static_data passed _____________
+02/26/2024 01:28:14 AM - INFO: Chrome browser closed successfully.
+
+
+
+02/26/2024 01:28:14 AM - INFO: Test Execution Finished for TC: test_TCID_004_fill_up_form_on_contact_us_page_with_static_data
+02/26/2024 01:28:14 AM - INFO: _____________ Test Case : test_TCID_004_fill_up_form_on_contact_us_page_with_static_data passed _____________
+02/26/2024 01:28:39 AM - INFO: Driver Closed.
+02/26/2024 01:28:59 AM - INFO: Driver Closed.
